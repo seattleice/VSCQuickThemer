@@ -1,0 +1,285 @@
+﻿{
+  "syntaxes": [
+    {
+      "name": "Comments",
+      "scopes": [
+        "comment",
+        "comment.block",
+        "comment.block.documentation",
+        "comment.line",
+        "punctuation.definition.comment"
+      ]
+    },
+    {
+      "name": "Constants",
+      "scopes": [
+        "constant",
+        "constant.character",
+        "constant.character.escape",
+        "constant.language",
+        "constant.numeric",
+        "constant.numeric.complex",
+        "constant.numeric.complex.imaginary",
+        "constant.numeric.complex.real",
+        "constant.numeric.float",
+        "constant.numeric.float.binary",
+        "constant.numeric.float.decimal",
+        "constant.numeric.float.hexadecimal",
+        "constant.numeric.float.octal",
+        "constant.numeric.float.other",
+        "constant.numeric.integer",
+        "constant.numeric.integer.binary",
+        "constant.numeric.integer.decimal",
+        "constant.numeric.integer.hexadecimal",
+        "constant.numeric.integer.octal",
+        "constant.numeric.integer.other",
+        "constant.other",
+        "constant.other.placeholder"
+      ]
+    },
+    {
+      "name": "Entities",
+      "scopes": [
+        "entity",
+        "entity.name",
+        "entity.name.class",
+        "entity.name.class.forward-decl",
+        "entity.name.constant",
+        "entity.name.enum",
+        "entity.name.function",
+        "entity.name.function.constructor",
+        "entity.name.function.destructor",
+        "entity.name.impl",
+        "entity.name.interface",
+        "entity.name.label",
+        "entity.name.namespace",
+        "entity.name.section",
+        "entity.name.struct",
+        "entity.name.tag",
+        "entity.name.trait",
+        "entity.name.type",
+        "entity.name.union",
+        "entity.other.attribute-name",
+        "entity.other.inherited-class"
+      ]
+    },
+    {
+      "name": "Invalids",
+      "scopes": [
+        "invalid",
+        "invalid.illegal"
+      ]
+    },
+    {
+      "name": "Keywords",
+      "scopes": [
+        "keyword",
+        "keyword.control",
+        "keyword.control.conditional",
+        "keyword.control.import",
+        "keyword.operator",
+        "keyword.operator.arithmetic",
+        "keyword.operator.assignment",
+        "keyword.operator.bitwise",
+        "keyword.operator.logical",
+        "keyword.operator.word",
+        "keyword.other",
+        "punctuation.definition.keyword"
+      ]
+    },
+    {
+      "name": "Markups",
+      "scopes": [
+        "markup",
+        "markup.bold",
+        "markup.deleted",
+        "markup.inserted",
+        "markup.italic",
+        "markup.list.numbered",
+        "markup.list.unnumbered",
+        "markup.other",
+        "markup.quote",
+        "markup.raw.block",
+        "markup.raw.inline",
+        "markup.underline",
+        "markup.underline.link"
+      ]
+    },
+    {
+      "name": "Metas",
+      "scopes": [
+        "meta.annotation",
+        "meta.annotation.identifier",
+        "meta.annotation.parameters",
+        "meta.block",
+        "meta.braces",
+        "meta.brackets",
+        "meta.class",
+        "meta.enum",
+        "meta.function",
+        "meta.function-call",
+        "meta.function.parameters",
+        "meta.function.return-type",
+        "meta.generic",
+        "meta.group",
+        "meta.impl",
+        "meta.interface",
+        "meta.namespace",
+        "meta.paragraph",
+        "meta.parens",
+        "meta.path",
+        "meta.preprocessor",
+        "meta.struct",
+        "meta.tag",
+        "meta.trait",
+        "meta.type",
+        "meta.union",
+        "punctuation.definition.annotation",
+        "punctuation.definition.generic.begin",
+        "punctuation.definition.generic.end",
+        "punctuation.section.block.begin",
+        "punctuation.section.block.end",
+        "punctuation.section.braces.begin",
+        "punctuation.section.braces.end",
+        "punctuation.section.brackets.begin",
+        "punctuation.section.brackets.end",
+        "punctuation.section.group.begin",
+        "punctuation.section.group.end",
+        "punctuation.section.parens.begin",
+        "punctuation.section.parens.end"
+      ]
+    },
+    {
+      "name": "Punctuations",
+      "scopes": [
+        "punctuation",
+        "punctuation.accessor",
+        "punctuation.separator",
+        "punctuation.separator.continuation",
+        "punctuation.terminator"
+      ]
+    },
+    {
+      "name": "Sources",
+      "scopes": [
+        "source"
+      ]
+    },
+    {
+      "name": "Storage",
+      "scopes": [
+        "keyword.declaration.function",
+        "source",
+        "storage.modifier",
+        "storage.type",
+        "storage.type keyword.declaration.type",
+        "storage.type.class keyword.declaration.class",
+        "storage.type.enum keyword.declaration.enum",
+        "storage.type.function",
+        "storage.type.impl keyword.declaration.impl",
+        "storage.type.interface keyword.declaration.interface",
+        "storage.type.struct keyword.declaration.struct",
+        "storage.type.trait keyword.declaration.trait",
+        "storage.type.union keyword.declaration.union"
+      ]
+    },
+    {
+      "name": "Strings",
+      "scopes": [
+        "meta.interpolation",
+        "meta.string",
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end",
+        "punctuation.section.interpolation.begin",
+        "punctuation.section.interpolation.end",
+        "source.language-suffix.embedded",
+        "string.quoted.double",
+        "string.quoted.other",
+        "string.quoted.single",
+        "string.quoted.triple",
+        "string.regexp",
+        "string.unquoted"
+      ]
+    },
+    {
+      "name": "Support",
+      "scopes": [
+        "support",
+        "support.class",
+        "support.constant",
+        "support.function",
+        "support.module",
+        "support.type"
+      ]
+    },
+    {
+      "name": "Text",
+      "scopes": [
+        "text",
+        "text.html",
+        "text.xml"
+      ]
+    },
+    {
+      "name": "Variables",
+      "scopes": [
+        "punctuation.definition.annotation",
+        "punctuation.definition.variable",
+        "variable.annotation",
+        "variable.function",
+        "variable.language",
+        "variable.other",
+        "variable.other.constant",
+        "variable.other.member",
+        "variable.other.readwrite",
+        "variable.parameter"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "text": "- All -",
+      "value": ""
+    },
+    {
+      "text": "CSS",
+      "value": ".css"
+    },
+    {
+      "text": "Python",
+      "value": ".python"
+    },
+    {
+      "text": "Go",
+      "value": ".go"
+    },
+    {
+      "text": "HTML",
+      "value": ".html"
+    },
+    {
+      "text": "razor",
+      "value": ".cshtml"
+    },
+    {
+      "text": "Xml",
+      "value": ".xml"
+    },
+    {
+      "text": "PHP",
+      "value": ".php"
+    },
+    {
+      "text": "Javascript",
+      "value": ".js"
+    },
+    {
+      "text": "Visual Basic",
+      "value": ".vb"
+    },
+    {
+      "text": "C#",
+      "value": ".cs"
+    }
+  ]
+}

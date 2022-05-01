@@ -1,0 +1,109 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Themer</RootNamespace>
+    <StartupObject>Themer.MainFormNew</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <Authors>Darryn Frost</Authors>
+    <Company>nth technologies Inc</Company>
+    <Description>Allows for quick and easy color editing of JSON editor theme files for Visual Studio Code</Description>
+    <Copyright>2022</Copyright>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Forms\ColorDialog.Designer.vb" />
+    <Compile Remove="Forms\ColorDialog.vb" />
+    <Compile Remove="Forms\ColorPaletteEditor.Designer.vb" />
+    <Compile Remove="Forms\ColorPaletteEditor.vb" />
+    <Compile Remove="Forms\FormThemeText.Designer.vb" />
+    <Compile Remove="Forms\FormThemeText.vb" />
+    <Compile Remove="Forms\MainForm - Copy.Designer.vb" />
+    <Compile Remove="Forms\MainForm - Copy.vb" />
+    <Compile Remove="Forms\MainForm.Designer.vb" />
+    <Compile Remove="Forms\MainForm.vb" />
+    <Compile Remove="Forms\scopeSelector - Copy.Designer.vb" />
+    <Compile Remove="Forms\scopeSelector - Copy.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Forms\ColorDialog.resx" />
+    <EmbeddedResource Remove="Forms\ColorPaletteEditor.resx" />
+    <EmbeddedResource Remove="Forms\FormThemeText.resx" />
+    <EmbeddedResource Remove="Forms\MainForm - Copy.resx" />
+    <EmbeddedResource Remove="Forms\MainForm.resx" />
+    <EmbeddedResource Remove="Forms\scopeSelector - Copy.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Templates\abyss-dark-template.jsonc" />
+    <None Remove="Templates\dark_plus_Material_template.jsonc" />
+    <None Remove="Templates\editorColorsList.json" />
+    <None Remove="Templates\jester-njord-dark-min-template.jsonc" />
+    <None Remove="Templates\monokai-color-theme.json" />
+    <None Remove="Templates\monokai-dark-template.jsonc" />
+    <None Remove="Templates\new-blank-theme.json" />
+    <None Remove="Templates\new-blank-theme.jsonc" />
+    <None Remove="Templates\njord-dark-blank-template.jsonc" />
+    <None Remove="Templates\njord-lowcontrast-dark-template.jsonc" />
+    <None Remove="Templates\nord-arcticice-dark-template.jsonc" />
+    <None Remove="Templates\tokenScopeList.json" />
+    <None Remove="Templates\tomorrow-night-blue-dark-template.jsonc" />
+    <None Remove="Templates\tomorrow-night-dark.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Templates\abyss-dark-template.jsonc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Templates\editorColorsList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Templates\tokenScopeList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Templates\tomorrow-night-blue-dark-template.jsonc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Colourful" Version="3.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThemeFunctions\ThemeFunctions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties templates_4monokai-dark-template_1jsonc__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

@@ -1,0 +1,2450 @@
+﻿[
+  {
+    "name": "activityBar.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.activeFocusBorder",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.background",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.border",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.dropBorder",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "activityBar.inactiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "activityBarBadge.background",
+    "hexColor": null
+  },
+  {
+    "name": "activityBarBadge.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "badge.background",
+    "hexColor": null
+  },
+  {
+    "name": "badge.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "banner.background",
+    "hexColor": null
+  },
+  {
+    "name": "banner.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "banner.iconForeground",
+    "hexColor": null
+  },
+  {
+    "name": "breadcrumb.activeSelectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "breadcrumb.background",
+    "hexColor": null
+  },
+  {
+    "name": "breadcrumb.focusForeground",
+    "hexColor": null
+  },
+  {
+    "name": "breadcrumb.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "breadcrumbPicker.background",
+    "hexColor": null
+  },
+  {
+    "name": "button.background",
+    "hexColor": null
+  },
+  {
+    "name": "button.border",
+    "hexColor": null
+  },
+  {
+    "name": "button.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "button.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "button.secondaryBackground",
+    "hexColor": null
+  },
+  {
+    "name": "button.secondaryForeground",
+    "hexColor": null
+  },
+  {
+    "name": "button.secondaryHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "charts.blue",
+    "hexColor": null
+  },
+  {
+    "name": "charts.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "charts.green",
+    "hexColor": null
+  },
+  {
+    "name": "charts.lines",
+    "hexColor": null
+  },
+  {
+    "name": "charts.orange",
+    "hexColor": null
+  },
+  {
+    "name": "charts.purple",
+    "hexColor": null
+  },
+  {
+    "name": "charts.red",
+    "hexColor": null
+  },
+  {
+    "name": "charts.yellow",
+    "hexColor": null
+  },
+  {
+    "name": "checkbox.background",
+    "hexColor": null
+  },
+  {
+    "name": "checkbox.border",
+    "hexColor": null
+  },
+  {
+    "name": "checkbox.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "comments.resolved.border",
+    "hexColor": null
+  },
+  {
+    "name": "comments.unresolved.border",
+    "hexColor": null
+  },
+  {
+    "name": "contrastActiveBorder",
+    "hexColor": null
+  },
+  {
+    "name": "contrastBorder",
+    "hexColor": null
+  },
+  {
+    "name": "debugConsole.errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugConsole.infoForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugConsole.sourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugConsole.warningForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugConsoleInputIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "debugExceptionWidget.background",
+    "hexColor": null
+  },
+  {
+    "name": "debugExceptionWidget.border",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.breakpointCurrentStackframeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.breakpointDisabledForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.breakpointForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.breakpointStackframeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.breakpointUnverifiedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.continueForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.disconnectForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.pauseForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.restartForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.startForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.stepBackForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.stepIntoForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.stepOutForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.stepOverForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugIcon.stopForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.boolean",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.error",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.name",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.number",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.string",
+    "hexColor": null
+  },
+  {
+    "name": "debugTokenExpression.value",
+    "hexColor": null
+  },
+  {
+    "name": "debugToolBar.background",
+    "hexColor": null
+  },
+  {
+    "name": "debugToolBar.border",
+    "hexColor": null
+  },
+  {
+    "name": "debugView.exceptionLabelBackground",
+    "hexColor": null
+  },
+  {
+    "name": "debugView.exceptionLabelForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugView.stateLabelBackground",
+    "hexColor": null
+  },
+  {
+    "name": "debugView.stateLabelForeground",
+    "hexColor": null
+  },
+  {
+    "name": "debugView.valueChangedHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "descriptionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.border",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.diagonalFill",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.insertedLineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.insertedTextBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.insertedTextBorder",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.removedLineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.removedTextBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditor.removedTextBorder",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditorGutter.insertedLineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditorGutter.removedLineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditorOverview.insertedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "diffEditorOverview.removedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "dropdown.background",
+    "hexColor": null
+  },
+  {
+    "name": "dropdown.border",
+    "hexColor": null
+  },
+  {
+    "name": "dropdown.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "dropdown.listBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.background",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findMatchBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findMatchBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findMatchHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findMatchHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findRangeHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.findRangeHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.focusedStackFrameHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.foldBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.hoverHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.inactiveSelectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.inlineValuesBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.inlineValuesForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.lineHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.lineHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.linkedEditingBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.rangeHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.rangeHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.selectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.selectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.selectionHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.selectionHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.snippetFinalTabstopHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.snippetFinalTabstopHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.snippetTabstopHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.snippetTabstopHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.stackFrameHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.symbolHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.symbolHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.wordHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.wordHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editor.wordHighlightStrongBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editor.wordHighlightStrongBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editorActiveLineNumber.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground1",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground2",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground3",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground4",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground5",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.foreground6",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketHighlight.unexpectedBracket.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketMatch.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketMatch.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground1",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground2",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground3",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground4",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground5",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.activeBackground6",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background1",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background2",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background3",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background4",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background5",
+    "hexColor": null
+  },
+  {
+    "name": "editorBracketPairGuide.background6",
+    "hexColor": null
+  },
+  {
+    "name": "editorCodeLens.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorCursor.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorCursor.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorError.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorError.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorError.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGhostText.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorGhostText.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorGhostText.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroup.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroup.dropBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroup.emptyBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroup.focusedEmptyBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroupHeader.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroupHeader.noTabsBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroupHeader.tabsBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGroupHeader.tabsBorder",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.addedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.commentRangeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.deletedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.foldingControlForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorGutter.modifiedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorHint.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorHint.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorHoverWidget.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorHoverWidget.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorHoverWidget.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorHoverWidget.highlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorHoverWidget.statusBarBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorIndentGuide.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorIndentGuide.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorInfo.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorInfo.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorInfo.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.parameterBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.parameterForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.typeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorInlayHint.typeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorLightBulb.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorLightBulbAutoFix.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorLineNumber.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorLineNumber.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorLink.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigation.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationError.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationError.headerBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationInfo.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationInfo.headerBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationWarning.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorMarkerNavigationWarning.headerBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.addedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.bracketMatchForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.commonContentForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.currentContentForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.deletedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.findMatchForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.incomingContentForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.infoForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.modifiedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.rangeHighlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.selectionHighlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.warningForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.wordHighlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorOverviewRuler.wordHighlightStrongForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorPane.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorRuler.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.focusHighlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.highlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.selectedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.selectedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidget.selectedIconForeground",
+    "hexColor": null
+  },
+  {
+    "name": "editorSuggestWidgetStatus.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorUnicodeHighlight.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorUnicodeHighlight.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorUnnecessaryCode.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorUnnecessaryCode.opacity",
+    "hexColor": null
+  },
+  {
+    "name": "editorWarning.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorWarning.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorWarning.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorWhitespace.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorWidget.background",
+    "hexColor": null
+  },
+  {
+    "name": "editorWidget.border",
+    "hexColor": null
+  },
+  {
+    "name": "editorWidget.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "editorWidget.resizeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionBadge.remoteBackground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionBadge.remoteForeground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionButton.prominentBackground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionButton.prominentForeground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionButton.prominentHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionIcon.preReleaseForeground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionIcon.starForeground",
+    "hexColor": null
+  },
+  {
+    "name": "extensionIcon.verifiedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "focusBorder",
+    "hexColor": null
+  },
+  {
+    "name": "foreground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.addedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.conflictingResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.deletedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.ignoredResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.modifiedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.renamedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.stageDeletedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.stageModifiedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.submoduleResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "gitDecoration.untrackedResourceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "icon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "input.background",
+    "hexColor": null
+  },
+  {
+    "name": "input.border",
+    "hexColor": null
+  },
+  {
+    "name": "input.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "input.placeholderForeground",
+    "hexColor": null
+  },
+  {
+    "name": "inputOption.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "inputOption.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "inputOption.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "inputOption.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.errorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.errorBorder",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.infoBackground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.infoBorder",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.infoForeground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.warningBackground",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.warningBorder",
+    "hexColor": null
+  },
+  {
+    "name": "inputValidation.warningForeground",
+    "hexColor": null
+  },
+  {
+    "name": "interactive.activeCodeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "interactive.inactiveCodeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingLabel.background",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingLabel.border",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingLabel.bottomBorder",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingLabel.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingTable.headerBackground",
+    "hexColor": null
+  },
+  {
+    "name": "keybindingTable.rowsBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.activeSelectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.activeSelectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.activeSelectionIconForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.deemphasizedForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.dropBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.filterMatchBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.filterMatchBorder",
+    "hexColor": null
+  },
+  {
+    "name": "list.focusBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.focusForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.focusHighlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.focusOutline",
+    "hexColor": null
+  },
+  {
+    "name": "list.highlightForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.hoverForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.inactiveFocusBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.inactiveFocusOutline",
+    "hexColor": null
+  },
+  {
+    "name": "list.inactiveSelectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "list.inactiveSelectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.inactiveSelectionIconForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.invalidItemForeground",
+    "hexColor": null
+  },
+  {
+    "name": "list.warningForeground",
+    "hexColor": null
+  },
+  {
+    "name": "listFilterWidget.background",
+    "hexColor": null
+  },
+  {
+    "name": "listFilterWidget.noMatchesOutline",
+    "hexColor": null
+  },
+  {
+    "name": "listFilterWidget.outline",
+    "hexColor": null
+  },
+  {
+    "name": "menu.background",
+    "hexColor": null
+  },
+  {
+    "name": "menu.border",
+    "hexColor": null
+  },
+  {
+    "name": "menu.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "menu.selectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "menu.selectionBorder",
+    "hexColor": null
+  },
+  {
+    "name": "menu.selectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "menu.separatorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "menubar.selectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "menubar.selectionBorder",
+    "hexColor": null
+  },
+  {
+    "name": "menubar.selectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.border",
+    "hexColor": null
+  },
+  {
+    "name": "merge.commonContentBackground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.commonHeaderBackground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.currentContentBackground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.currentHeaderBackground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.incomingContentBackground",
+    "hexColor": null
+  },
+  {
+    "name": "merge.incomingHeaderBackground",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.background",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.errorHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.findMatchHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.foregroundOpacity",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.selectionHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.selectionOccurrenceHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "minimap.warningHighlight",
+    "hexColor": null
+  },
+  {
+    "name": "minimapGutter.addedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "minimapGutter.deletedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "minimapGutter.modifiedBackground",
+    "hexColor": null
+  },
+  {
+    "name": "minimapSlider.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "minimapSlider.background",
+    "hexColor": null
+  },
+  {
+    "name": "minimapSlider.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellBorderColor",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellEditorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellInsertionIndicator",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellStatusBarItemHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.cellToolbarSeparator",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.focusedCellBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.focusedCellBorder",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.focusedEditorBorder",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.inactiveFocusedCellBorder",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.inactiveSelectedCellBorder",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.outputContainerBackgroundColor",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.outputContainerBorderColor",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.selectedCellBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.selectedCellBorder",
+    "hexColor": null
+  },
+  {
+    "name": "notebook.symbolHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebookScrollbarSlider.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebookScrollbarSlider.background",
+    "hexColor": null
+  },
+  {
+    "name": "notebookScrollbarSlider.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "notebookStatusErrorIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notebookStatusRunningIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notebookStatusSuccessIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationCenter.border",
+    "hexColor": null
+  },
+  {
+    "name": "notificationCenterHeader.background",
+    "hexColor": null
+  },
+  {
+    "name": "notificationCenterHeader.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationLink.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notifications.background",
+    "hexColor": null
+  },
+  {
+    "name": "notifications.border",
+    "hexColor": null
+  },
+  {
+    "name": "notifications.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationsErrorIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationsInfoIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationsWarningIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "notificationToast.border",
+    "hexColor": null
+  },
+  {
+    "name": "panel.background",
+    "hexColor": null
+  },
+  {
+    "name": "panel.border",
+    "hexColor": null
+  },
+  {
+    "name": "panel.dropBorder",
+    "hexColor": null
+  },
+  {
+    "name": "panelInput.border",
+    "hexColor": null
+  },
+  {
+    "name": "panelSection.border",
+    "hexColor": null
+  },
+  {
+    "name": "panelSection.dropBackground",
+    "hexColor": null
+  },
+  {
+    "name": "panelSectionHeader.background",
+    "hexColor": null
+  },
+  {
+    "name": "panelSectionHeader.border",
+    "hexColor": null
+  },
+  {
+    "name": "panelSectionHeader.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "panelTitle.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "panelTitle.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "panelTitle.inactiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "peekView.border",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewEditor.background",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewEditor.matchHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewEditor.matchHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewEditorGutter.background",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.background",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.fileForeground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.lineForeground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.matchHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.selectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewResult.selectionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewTitle.background",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewTitleDescription.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "peekViewTitleLabel.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "pickerGroup.border",
+    "hexColor": null
+  },
+  {
+    "name": "pickerGroup.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "ports.iconRunningProcessForeground",
+    "hexColor": null
+  },
+  {
+    "name": "problemsErrorIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "problemsInfoIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "problemsWarningIcon.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "progressBar.background",
+    "hexColor": null
+  },
+  {
+    "name": "quickInput.background",
+    "hexColor": null
+  },
+  {
+    "name": "quickInput.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "quickInput.list.focusBackground",
+    "hexColor": null
+  },
+  {
+    "name": "quickInputList.focusBackground",
+    "hexColor": null
+  },
+  {
+    "name": "quickInputList.focusForeground",
+    "hexColor": null
+  },
+  {
+    "name": "quickInputList.focusIconForeground",
+    "hexColor": null
+  },
+  {
+    "name": "quickInputTitle.background",
+    "hexColor": null
+  },
+  {
+    "name": "sash.hoverBorder",
+    "hexColor": null
+  },
+  {
+    "name": "scm.providerBorder",
+    "hexColor": null
+  },
+  {
+    "name": "scrollbar.shadow",
+    "hexColor": null
+  },
+  {
+    "name": "scrollbarSlider.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "scrollbarSlider.background",
+    "hexColor": null
+  },
+  {
+    "name": "scrollbarSlider.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "searchEditor.findMatchBackground",
+    "hexColor": null
+  },
+  {
+    "name": "searchEditor.findMatchBorder",
+    "hexColor": null
+  },
+  {
+    "name": "searchEditor.textInputBorder",
+    "hexColor": null
+  },
+  {
+    "name": "selection.background",
+    "hexColor": null
+  },
+  {
+    "name": "settings.checkboxBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.checkboxBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.checkboxForeground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.dropdownBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.dropdownBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.dropdownForeground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.dropdownListBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.focusedRowBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.focusedRowBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.headerBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.headerForeground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.modifiedItemIndicator",
+    "hexColor": null
+  },
+  {
+    "name": "settings.numberInputBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.numberInputBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.numberInputForeground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.rowHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.sashBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.textInputBackground",
+    "hexColor": null
+  },
+  {
+    "name": "settings.textInputBorder",
+    "hexColor": null
+  },
+  {
+    "name": "settings.textInputForeground",
+    "hexColor": null
+  },
+  {
+    "name": "sideBar.background",
+    "hexColor": null
+  },
+  {
+    "name": "sideBar.border",
+    "hexColor": null
+  },
+  {
+    "name": "sideBar.dropBackground",
+    "hexColor": null
+  },
+  {
+    "name": "sideBar.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "sideBarSectionHeader.background",
+    "hexColor": null
+  },
+  {
+    "name": "sideBarSectionHeader.border",
+    "hexColor": null
+  },
+  {
+    "name": "sideBarSectionHeader.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "sideBarTitle.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "sideBySideEditor.horizontalBorder",
+    "hexColor": null
+  },
+  {
+    "name": "sideBySideEditor.verticalBorder",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.background",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.border",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.debuggingBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.debuggingBorder",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.debuggingForeground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.focusBorder",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.noFolderBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.noFolderBorder",
+    "hexColor": null
+  },
+  {
+    "name": "statusBar.noFolderForeground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.compactHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.errorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.errorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.focusBorder",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.prominentBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.prominentForeground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.prominentHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.remoteBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.remoteForeground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.warningBackground",
+    "hexColor": null
+  },
+  {
+    "name": "statusBarItem.warningForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.arrayForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.booleanForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.classForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.colorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.constantForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.constructorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.enumeratorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.enumeratorMemberForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.eventForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.fieldForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.fileForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.folderForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.functionForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.interfaceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.keyForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.keywordForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.methodForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.moduleForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.namespaceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.nullForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.numberForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.objectForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.operatorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.packageForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.propertyForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.referenceForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.snippetForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.stringForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.structForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.textForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.typeParameterForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.unitForeground",
+    "hexColor": null
+  },
+  {
+    "name": "symbolIcon.variableForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.activeBorderTop",
+    "hexColor": null
+  },
+  {
+    "name": "tab.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.activeModifiedBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.border",
+    "hexColor": null
+  },
+  {
+    "name": "tab.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.hoverBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.hoverForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.inactiveBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.inactiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.inactiveModifiedBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.lastPinnedBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedActiveBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedActiveBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedActiveBorderTop",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedActiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedActiveModifiedBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedHoverBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedHoverForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedInactiveBackground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedInactiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "tab.unfocusedInactiveModifiedBorder",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBlack",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBlue",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightBlack",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightBlue",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightCyan",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightGreen",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightMagenta",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightRed",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightWhite",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiBrightYellow",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiCyan",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiGreen",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiMagenta",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiRed",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiWhite",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.ansiYellow",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.background",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.border",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.dropBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.findMatchBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.findMatchBorder",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.findMatchHighlightBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.findMatchHighlightBorder",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.selectionBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminal.tab.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "terminalCommandDecoration.defaultBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminalCommandDecoration.errorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminalCommandDecoration.successBackground",
+    "hexColor": null
+  },
+  {
+    "name": "terminalCursor.background",
+    "hexColor": null
+  },
+  {
+    "name": "terminalCursor.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "terminalOverviewRuler.cursorForeground",
+    "hexColor": null
+  },
+  {
+    "name": "terminalOverviewRuler.findMatchForeground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconErrored",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconFailed",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconPassed",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconQueued",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconSkipped",
+    "hexColor": null
+  },
+  {
+    "name": "testing.iconUnset",
+    "hexColor": null
+  },
+  {
+    "name": "testing.message.error.decorationForeground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.message.error.lineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.message.info.decorationForeground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.message.info.lineBackground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.peekBorder",
+    "hexColor": null
+  },
+  {
+    "name": "testing.peekHeaderBackground",
+    "hexColor": null
+  },
+  {
+    "name": "testing.runAction",
+    "hexColor": null
+  },
+  {
+    "name": "textBlockQuote.background",
+    "hexColor": null
+  },
+  {
+    "name": "textBlockQuote.border",
+    "hexColor": null
+  },
+  {
+    "name": "textCodeBlock.background",
+    "hexColor": null
+  },
+  {
+    "name": "textLink.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "textLink.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "textPreformat.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "textSeparator.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "titleBar.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "titleBar.activeForeground",
+    "hexColor": null
+  },
+  {
+    "name": "titleBar.border",
+    "hexColor": null
+  },
+  {
+    "name": "titleBar.inactiveBackground",
+    "hexColor": null
+  },
+  {
+    "name": "titleBar.inactiveForeground",
+    "hexColor": null
+  },
+  {
+    "name": "toolbar.activeBackground",
+    "hexColor": null
+  },
+  {
+    "name": "toolbar.hoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "toolbar.hoverOutline",
+    "hexColor": null
+  },
+  {
+    "name": "tree.indentGuidesStroke",
+    "hexColor": null
+  },
+  {
+    "name": "tree.tableColumnsBorder",
+    "hexColor": null
+  },
+  {
+    "name": "tree.tableOddRowsBackground",
+    "hexColor": null
+  },
+  {
+    "name": "walkThrough.embeddedEditorBackground",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.background",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.progress.background",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.progress.foreground",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.tileBackground",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.tileHoverBackground",
+    "hexColor": null
+  },
+  {
+    "name": "welcomePage.tileShadow",
+    "hexColor": null
+  },
+  {
+    "name": "widget.shadow",
+    "hexColor": null
+  },
+  {
+    "name": "window.activeBorder",
+    "hexColor": null
+  },
+  {
+    "name": "window.inactiveBorder",
+    "hexColor": null
+  }
+]
