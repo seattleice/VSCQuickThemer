@@ -23,12 +23,12 @@ Partial Class MainFormNew
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle19 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle20 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle21 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle22 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle23 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle24 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.dgvEnvironment = New System.Windows.Forms.DataGridView()
         Me.ColorDialog1 = New System.Windows.Forms.ColorDialog()
         Me.tabEdit = New System.Windows.Forms.TabControl()
@@ -103,6 +103,7 @@ Partial Class MainFormNew
         Me.Label17 = New System.Windows.Forms.Label()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
+        Me.btnPkgDef = New System.Windows.Forms.Button()
         CType(Me.dgvEnvironment, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tabEdit.SuspendLayout()
         Me.TabPage1.SuspendLayout()
@@ -120,29 +121,29 @@ Partial Class MainFormNew
         Me.dgvEnvironment.AllowUserToAddRows = False
         Me.dgvEnvironment.AllowUserToDeleteRows = False
         Me.dgvEnvironment.AllowUserToResizeRows = False
-        DataGridViewCellStyle1.BackColor = System.Drawing.Color.White
-        Me.dgvEnvironment.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle19.BackColor = System.Drawing.Color.White
+        Me.dgvEnvironment.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle19
         Me.dgvEnvironment.BackgroundColor = System.Drawing.Color.WhiteSmoke
         Me.dgvEnvironment.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.dgvEnvironment.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        DataGridViewCellStyle2.ForeColor = System.Drawing.Color.DimGray
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.RoyalBlue
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvEnvironment.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle20.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle20.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        DataGridViewCellStyle20.ForeColor = System.Drawing.Color.DimGray
+        DataGridViewCellStyle20.SelectionBackColor = System.Drawing.Color.RoyalBlue
+        DataGridViewCellStyle20.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle20.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvEnvironment.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle20
         Me.dgvEnvironment.ColumnHeadersHeight = 34
         Me.dgvEnvironment.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        DataGridViewCellStyle3.ForeColor = System.Drawing.Color.DimGray
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.RoyalBlue
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvEnvironment.DefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle21.BackColor = System.Drawing.Color.WhiteSmoke
+        DataGridViewCellStyle21.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        DataGridViewCellStyle21.ForeColor = System.Drawing.Color.DimGray
+        DataGridViewCellStyle21.SelectionBackColor = System.Drawing.Color.RoyalBlue
+        DataGridViewCellStyle21.SelectionForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle21.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvEnvironment.DefaultCellStyle = DataGridViewCellStyle21
         Me.dgvEnvironment.Dock = System.Windows.Forms.DockStyle.Fill
         Me.dgvEnvironment.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically
         Me.dgvEnvironment.GridColor = System.Drawing.Color.LightGray
@@ -290,30 +291,30 @@ Partial Class MainFormNew
         Me.dgvToken.AllowUserToAddRows = False
         Me.dgvToken.AllowUserToDeleteRows = False
         Me.dgvToken.AllowUserToResizeRows = False
-        DataGridViewCellStyle4.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle4.ForeColor = System.Drawing.Color.DimGray
-        Me.dgvToken.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle22.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle22.ForeColor = System.Drawing.Color.DimGray
+        Me.dgvToken.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle22
         Me.dgvToken.BackgroundColor = System.Drawing.Color.White
         Me.dgvToken.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.dgvToken.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        DataGridViewCellStyle5.ForeColor = System.Drawing.Color.DimGray
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.RoyalBlue
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvToken.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle23.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle23.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        DataGridViewCellStyle23.ForeColor = System.Drawing.Color.DimGray
+        DataGridViewCellStyle23.SelectionBackColor = System.Drawing.Color.RoyalBlue
+        DataGridViewCellStyle23.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvToken.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle23
         Me.dgvToken.ColumnHeadersHeight = 34
         Me.dgvToken.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle6.BackColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        DataGridViewCellStyle6.ForeColor = System.Drawing.Color.DimGray
-        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.RoyalBlue
-        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvToken.DefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle24.BackColor = System.Drawing.Color.WhiteSmoke
+        DataGridViewCellStyle24.Font = New System.Drawing.Font("Poppins", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        DataGridViewCellStyle24.ForeColor = System.Drawing.Color.DimGray
+        DataGridViewCellStyle24.SelectionBackColor = System.Drawing.Color.RoyalBlue
+        DataGridViewCellStyle24.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvToken.DefaultCellStyle = DataGridViewCellStyle24
         Me.dgvToken.Dock = System.Windows.Forms.DockStyle.Fill
         Me.dgvToken.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter
         Me.dgvToken.GridColor = System.Drawing.Color.LightGray
@@ -559,10 +560,10 @@ Partial Class MainFormNew
         Me.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnSave.Font = New System.Drawing.Font("Poppins", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.btnSave.ForeColor = System.Drawing.Color.WhiteSmoke
-        Me.btnSave.Location = New System.Drawing.Point(165, 299)
+        Me.btnSave.Location = New System.Drawing.Point(20, 299)
         Me.btnSave.Margin = New System.Windows.Forms.Padding(3, 5, 3, 5)
         Me.btnSave.Name = "btnSave"
-        Me.btnSave.Size = New System.Drawing.Size(164, 36)
+        Me.btnSave.Size = New System.Drawing.Size(147, 36)
         Me.btnSave.TabIndex = 36
         Me.btnSave.Text = "Save Theme"
         Me.ToolTip1.SetToolTip(Me.btnSave, "Save your changes")
@@ -985,12 +986,29 @@ Partial Class MainFormNew
         Me.Label15.Text = "- Edit Existing: Navigate to an existing theme file on your computer, and edit it" &
     " in place."
         '
+        'btnPkgDef
+        '
+        Me.btnPkgDef.BackColor = System.Drawing.Color.DodgerBlue
+        Me.btnPkgDef.FlatAppearance.BorderSize = 0
+        Me.btnPkgDef.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnPkgDef.Font = New System.Drawing.Font("Poppins", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btnPkgDef.ForeColor = System.Drawing.Color.WhiteSmoke
+        Me.btnPkgDef.Location = New System.Drawing.Point(172, 299)
+        Me.btnPkgDef.Margin = New System.Windows.Forms.Padding(3, 5, 3, 5)
+        Me.btnPkgDef.Name = "btnPkgDef"
+        Me.btnPkgDef.Size = New System.Drawing.Size(240, 36)
+        Me.btnPkgDef.TabIndex = 52
+        Me.btnPkgDef.Text = "Convert to pkgDef"
+        Me.ToolTip1.SetToolTip(Me.btnPkgDef, "Save your changes and convert theme to pkgDef for Visual Studio")
+        Me.btnPkgDef.UseVisualStyleBackColor = False
+        '
         'MainFormNew
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 23.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.GhostWhite
         Me.ClientSize = New System.Drawing.Size(1204, 830)
+        Me.Controls.Add(Me.btnPkgDef)
         Me.Controls.Add(Me.btnSettings)
         Me.Controls.Add(Me.pnlColor)
         Me.Controls.Add(Me.pnlToken)
@@ -1124,4 +1142,5 @@ Partial Class MainFormNew
     Friend WithEvents mnuSettings As ContextMenuStrip
     Friend WithEvents DefaultEnvironmentPropertiesToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents DefaultEditorScopesToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents btnPkgDef As Button
 End Class

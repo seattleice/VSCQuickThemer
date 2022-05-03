@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VSCQuickThemer", "Themer\VSCQuickThemer.vbproj", "{63BE5640-ADE2-4298-8D86-A377530F42E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeFunctions", "ThemeFunctions\ThemeFunctions.csproj", "{7783D9E5-2E14-48EF-ADEB-B701FDEA2ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemeFunctions", "ThemeFunctions\ThemeFunctions.csproj", "{7783D9E5-2E14-48EF-ADEB-B701FDEA2ECE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemeConverter", "..\..\source\repos\theme-converter-for-vs\ThemeConverter\ThemeConverter\ThemeConverter.csproj", "{F8FA7216-ACD9-480A-9428-B590F0DA5358}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7783D9E5-2E14-48EF-ADEB-B701FDEA2ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7783D9E5-2E14-48EF-ADEB-B701FDEA2ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7783D9E5-2E14-48EF-ADEB-B701FDEA2ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FA7216-ACD9-480A-9428-B590F0DA5358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FA7216-ACD9-480A-9428-B590F0DA5358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FA7216-ACD9-480A-9428-B590F0DA5358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FA7216-ACD9-480A-9428-B590F0DA5358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

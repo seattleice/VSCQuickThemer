@@ -24,6 +24,8 @@ Public Class MainFormNew
     Private _templateFolder As String
     Private _blankTemplateFile As String = "new-blank-theme.json"
 
+    Private _pkgDefExe As String
+
     Private _dflt_EditorColors As List(Of ThemeColor)
     Private _dflt_TokenScopes As TokenScopes
 
@@ -41,13 +43,15 @@ Public Class MainFormNew
 
             FillTemplates()
 
-            End If
+        End If
 
     End Sub
 
     Private Sub MainFormNew_Load(sender As Object, e As EventArgs) Handles Me.Load
 
         FillTemplates()
+
+        _pkgDefExe = System.IO.Path.Combine(My.Application.Info.DirectoryPath, "ThemeConverter.exe")
 
         pnlToken.Visible = tabEdit.SelectedIndex = 1
 
@@ -982,6 +986,36 @@ Public Class MainFormNew
                 End If
 
             Next
+
+        End If
+
+    End Sub
+
+    Private Sub btnPkgDef_Click(sender As Object, e As EventArgs) Handles btnPkgDef.Click
+
+
+        _jsonTheme = GetTheme()
+
+        dlgThemeFolder.RootFolder = Environment.SpecialFolder.UserProfile
+        dlgThemeFolder.SelectedPath = System.Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)
+
+        If dlgThemeFolder.ShowDialog <> DialogResult.OK Then Return
+
+        Dim jsonFile As String = System.IO.Path.Combine(dlgThemeFolder.SelectedPath, $"{_jsonTheme.ThemeName}.json")
+
+        If (System.IO.File.Exists(jsonFile)) Then System.IO.File.Delete(jsonFile)
+
+        Dim themeString = JsonConvert.SerializeObject(_jsonTheme, Formatting.Indented, New JsonSerializerSettings() With {.NullValueHandling = NullValueHandling.Ignore})
+
+        My.Computer.FileSystem.WriteAllText(jsonFile, themeString, False, System.Text.Encoding.UTF8)
+
+        If (System.IO.File.Exists(jsonFile)) Then
+
+            System.Diagnostics.Process.Start(_pkgDefExe, $" -i {jsonFile} -o {dlgThemeFolder.SelectedPath}")
+
+            Dim path As String = System.IO.Path.Combine(dlgThemeFolder.SelectedPath, $"{_jsonTheme.ThemeName}.pkgdef")
+
+            System.Diagnostics.Process.Start("explorer.exe", $"/select ""{path}""")
 
         End If
 
