@@ -82,7 +82,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\source\repos\theme-converter-for-vs\ThemeConverter\ThemeConverter\ThemeConverter.csproj" />
+    <ProjectReference Include="..\theme-converter-for-vs\ThemeConverter\ThemeConverter\ThemeConverter.csproj" />
     <ProjectReference Include="..\ThemeFunctions\ThemeFunctions.csproj" />
   </ItemGroup>
 
